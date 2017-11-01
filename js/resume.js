@@ -1,9 +1,3 @@
-window.onload = function() {
-	scroll_shou();
-	scroll_jieshao();
-	scroll_zuoping();
-	scroll_lianxi();
-};
 function scroll_shou() {
 	var scroll_offset = $("#shou").offset();
 	$("body,html").animate({
