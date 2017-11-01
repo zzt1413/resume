@@ -38,6 +38,9 @@
 	left: 75px;
 	width: 87%;
 }
+.item p,.item h4{
+	color: #6A5ACD;
+}
 .xiaoguo{
   width: %87;
   height: 40px;
@@ -57,7 +60,7 @@
 #jieshao{
 	height: 500px;
 	position: relative;
-	top: 70px;
+	top: 68px;
 	left: 88px;
 	width: 87%;
 	background-color: rgb(12,185,210);
@@ -66,20 +69,20 @@
 #zuoping{
 	height: 700px;
 	position: relative;
-	top: -249px;
-	left: 0px;
-	width: 100%;
+	top: 68px;
+	left: 88px;
+	width: 87%;
 	background-color: rgb(112,205,170);
 	border-radius: 5px;
 }
 #lianxi{
-    height: 400px;
+	height: 400px;
 	position: relative;
-	top: -249px;
-    left: 0px;
-    width: 100%;
-    background-color: rgb(112,245,220);
-    border-radius: 5px;
+	top: 68px;
+  left: 88px;
+  width: 87%;
+  background-color: rgb(112,245,220);
+  border-radius: 5px;
 }
 .touxiang{
     width: 400px;
@@ -137,15 +140,14 @@
 }
 #lianxi ul{
   list-style: none;
-  text-align: left;
   font-size: 20px;
   margin-left: 400px;
 }
 #lianxi ul li{
-  padding-bottom: 18px;
+  padding-bottom: 20px;
 }
 #lianxi a{
-  padding-left: 20px;
   list-style: none;
-  color: rgb(120,140,250);
+  color: rgb(150,100,50);
+  margin-left: 120px;
 }
